@@ -1,1 +1,1 @@
-# royal-hires-corporate-
+# Royal Hires Website\nReact + Vite starter. `npm install` then `npm run dev`.\n
